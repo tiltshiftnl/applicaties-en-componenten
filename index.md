@@ -14,7 +14,7 @@
     </tr>
     {% for applicatie in item.applicaties %}
     <tr>
-        <td>{{ applicatie.naam }}</td>
+        <td style="font-weight: 900">{{ applicatie.naam }}</td>
         <td>{{ applicatie.omschrijving }}</td>
         <td>{{ applicatie.gebruiker }}</td>
         <td>{{ applicatie.type }}</td>
