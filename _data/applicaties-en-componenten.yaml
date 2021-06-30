@@ -21,3 +21,30 @@
     omschrijving: aanmelden voor een marktkraam en automatisch indelen van de markten op basis van regels marktverordening
     gebruiker: koopman
     gebruikslocatie: op de markt
+- familie: Straatnotes
+  context: Familie van applicaties voor het uitzetten van opdrachten en ontvangen van notities op het gebied van openbare orde en veiligheid.
+  - type: mobiel
+    naam: Host notes
+    omschrijving: mobiele applicatie voor het maken van notities en het loggen van acties uitgevoerd door Hosts in uitgaansgebieden
+    gebruiker: host
+    gebruikslocatie: op straat in uitgaansgebieden
+  - type: mobiel
+    naam: Straatnotes app
+    omschrijving: mobiele looplijst-applicatie met de mogelijkheid om notities te maken bij opdrachten
+    gebruiker: straatcoach
+    gebruikslocatie: op straat
+  - type: desktop
+    naam: Straatnotes redactie
+    omschrijving: redactiesysteem voor ingekomen opdrachten en aanpassen en goedkeuren van daarbij aangemaakte notities voor terugkoppeling
+    gebruiker: coordinator
+    gebruikslocatie: op kantoor
+  - type: web service
+    naam: ADUS
+    omschrijving: web service voor het aanvragen van opdrachten en het opvragen van de daarop gemaakte notities
+    gebruiker: nvt
+    gebruikslocatie: nvt
+  - type: desktop
+    naam: JVVS
+    omschrijving: kaartenbakken (registraties) voor personen, locaties, groepen, etc. met de mogelijkheid om daarop opdrachten aan te vragen en de teruggekomen notities te raadplegen en doorzoeken
+    gebruiker: medewerker Jeugd en Veiligheid, medewerker Actiecentrum Veiligheid en Zorg, medewerker Top1000, medewerker Veelplegers
+    gebruikslocatie: op kantoor
