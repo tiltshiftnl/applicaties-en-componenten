@@ -1,0 +1,23 @@
+- familie: Makkelijke Markt
+  context: Straatmarkten
+  applicaties:
+  - type: mobiel
+    naam: Bonnenboekje
+    omschrijving: Mobiele applicatie voor de dagelijkse administratie op de straatmarkten
+    gebruiker: marktmeester
+    gebruikslocatie: op de markt
+  - type: desktop
+    naam: Marktadministratie
+    omschrijving: registratie van marktkooplieden per markt en facturatie
+    gebruiker: administratief medewerker
+    gebruikslocatie: kantoor
+  - type: desktop
+    naam: Digitale markten beheren
+    omschrijving: beheer van de digitale informatie over de markten
+    gebruiker: informatievoorziening
+    gebruikslocatie: kantoor
+  - type: mobiel
+    naam: Digitaal aanmelden
+    omschrijving: aanmelden voor een marktkraam en automatisch indelen van de markten op basis van regels marktverordening
+    gebruiker: koopman
+    gebruikslocatie: op de markt
