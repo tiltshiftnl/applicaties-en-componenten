@@ -1,5 +1,5 @@
 - familie: Makkelijke Markt
-  context: Straatmarkten
+  context: Familie van applicaties voor administratie en digitaal indelen van de straatmarkten in een gemeente.
   applicaties:
   - type: mobiel
     naam: Bonnenboekje
