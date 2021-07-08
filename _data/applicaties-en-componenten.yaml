@@ -49,3 +49,21 @@
     omschrijving: kaartenbakken (registraties) voor personen, locaties, groepen, etc. met de mogelijkheid om daarop opdrachten aan te vragen en de teruggekomen notities te raadplegen en doorzoeken
     gebruiker: medewerker Jeugd en Veiligheid, medewerker Actiecentrum Veiligheid en Zorg, medewerker Top1000, medewerker Veelplegers
     gebruikslocatie: op kantoor
+- familie: Clean Street
+  context: 
+- familie: Toezicht op Pad (TOP)
+  context: 
+- familie: Omslagroute
+  context: 
+- familie: Flevowegen
+  context: 
+- familie: Tourbuzz
+  context: 
+- familie: SchuldDossier
+  context: 
+- familie: Overlast Melden Rembrandtplein
+  context: 
+- familie: Algoritmeregister
+  context: 
+- familie: VraagMij
+  context: 
