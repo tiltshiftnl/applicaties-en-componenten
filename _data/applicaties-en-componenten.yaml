@@ -50,7 +50,13 @@
     gebruiker: medewerker Jeugd en Veiligheid, medewerker Actiecentrum Veiligheid en Zorg, medewerker Top1000, medewerker Veelplegers
     gebruikslocatie: op kantoor
 - familie: Clean Street
-  context: 
+  context: Familie van applicaties rondom de rol van 'straatconcierge', toezichthouder op 'heel en schoon' processen op straat.
+  applicaties:
+  - type: mobiel
+    naam: leeg.nu
+    omschrijving: volle vuilnisbak melden
+    gebruiker: omwonende
+    gebruikslocatie: op straat
 - familie: Toezicht op Pad (TOP)
   context: 
 - familie: Omslagroute
