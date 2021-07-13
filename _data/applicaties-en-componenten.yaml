@@ -57,6 +57,16 @@
     omschrijving: volle vuilnisbak melden
     gebruiker: omwonende
     gebruikslocatie: op straat
+  - type: mobiel
+    naam: Clean Street app
+    omschrijving: zaaksysteem op straat waarin volle bak meldingen (leeg.nu of andere meldingskanalen) kunnen worden ontvangen en afgehandeld, nieuwe tickets voor later en\of collega's kunnen worden aangemaakt en een adresboek met logfunctie waarmee de verantwoordelijke processen kunnen worden ingeschakeld.
+    gebruiker: straatconcierge, toezichthouder
+    gebruikslocatie: op straat
+  - type: desktop
+    naam: Clean Street dashboard
+    omschrijving: managementoverzicht en presentatietool om veelvoorkomende problemen in processen te bespreken.
+    gebruiker: verantwoordelijke heel en schoon
+    gebruikslocatie: op kantoor
 - familie: Toezicht op Pad (TOP)
   context: 
 - familie: Omslagroute
