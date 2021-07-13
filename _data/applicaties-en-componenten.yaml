@@ -67,6 +67,11 @@
     omschrijving: managementoverzicht en presentatietool om veelvoorkomende problemen in processen te bespreken.
     gebruiker: verantwoordelijke heel en schoon
     gebruikslocatie: op kantoor
+  - type: mobiel
+    naam: Bak aanvragen
+    omschrijving: webformulier om een ondernemersbak te bestellen; dit wordt ook een ticket in de Clean Street app.
+    gebruiker: ondernemer
+    gebruikslocatie: op de zaak
 - familie: Toezicht op Pad (TOP)
   context: 
 - familie: Omslagroute
